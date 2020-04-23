@@ -4,7 +4,10 @@ I created  Average number calculator. I made this because I wanted learned PyQt5
 # How to install??
 
 1. Just use git clone or download zip folder
-2. Use pip to install PyQt5 - pip install PyQt5
+2. Use pip to install PyQt5 
+
+   >pip install PyQt5
+   
 3. Run 1_WindowResolution.py
 
 # Project image
